@@ -64,7 +64,7 @@ body::before {
 
 h1 {
     font-size: 65px;
-    color: #0591e7;
+    color: #ffffff;
     text-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
     animation: bounceIn 1.2s ease-out;
 }
